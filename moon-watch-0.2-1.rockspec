@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "moon-watch"
 version = "0.2-1"
 
--- LuaDist source
 source = {
-  tag = "0.2-1",
-  url = "git://github.com/LuaDist-testing/moon-watch.git"
+  url = "git://github.com/yi/moon-watch",
+  branch = "master"
 }
--- Original source
--- source = {
---   url = "git://github.com/yi/moon-watch",
---   branch = "master"
--- }
 
 description = {
   summary = "better -watch for moonscript(moonc) for MacOS",
